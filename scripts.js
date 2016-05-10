@@ -5,3 +5,16 @@ const strip = document.querySelector('.strip');
 const snap = document.querySelector('.snap');
 
 // Let's go!
+function getVideo() {
+
+}
+
+function getVideo() {
+
+}
+
+function takePhoto() {
+
+}
+
+getVideo();
